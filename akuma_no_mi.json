@@ -1,0 +1,587 @@
+[
+    {
+        "name": "Ato Ato no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/0/0f/Ato_Ato_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20160708134450",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Awa Awa no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/5/51/Awa_Awa_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20131206044150",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Baku Baku no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/c/c6/Baku_Baku_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20200507163319",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Bane Bane no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/1/1d/Bane_Bane_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20160913222919",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Bara Bara no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Bara_Bara_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20201102125104",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Bari Bari no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/de/Bari_Bari_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20160212174221",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Bata Bata no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Bata_Bata_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20181203192223",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Beri Beri no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Beri_Beri_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20130503053935",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Beta Beta no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Beta_Beta_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20180513215218",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Bisu Bisu no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Bisu_Bisu_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20170730022308",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Bomu Bomu no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/1/1a/Bomu_Bomu_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20210204030003",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Buki Buki no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/3/3e/Buki_Buki_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20141206174322",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Buku Buku no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/44/Buku_Buku_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20180904134020",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Chiyu Chiyu no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/b2/Chiyu_Chiyu_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20151129192854",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Choki Choki no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/0/0f/Choki_Choki_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20130224140928",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Doa Doa no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/0/04/Doa_Doa_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20130629174737",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Doku Doku no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/2/21/Doku_Doku_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20160129102538",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Doru Doru no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Doru_Doru_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20200507205151",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Fude Fude no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Fude_Fude_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20210710161433",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Fuku Fuku no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Fuku_Fuku_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20181020010802",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Fuwa Fuwa no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/df/Fuwa_Fuwa_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20130323001748",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Giro Giro no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/2/23/Giro_Giro_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20201101164342",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Gocha Gocha no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/47/Gocha_Gocha_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20190324125515",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Gomu Gomu no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Gomu_Gomu_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20190419140206",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Gura Gura no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Gura_Gura_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20200716073745",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Guru Guru no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/0/0a/Guru_Guru_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20141206170537",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Hana Hana no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/2/21/Hana_Hana_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20191228120242",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Hira Hira no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Hira_Hira_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20151110020239",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Hobi Hobi no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Hobi_Hobi_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20190416040233",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Horo Horo no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/1/14/Horo_Horo_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20130922165024",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Horu Horu no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/5/53/Horu_Horu_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20120328040657",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Hoya Hoya no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/9/97/Hoya_Hoya_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20210208063127",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Ishi Ishi no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/9/90/Ishi_Ishi_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20180529180105",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Ito Ito no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Ito_Ito_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20151220070449",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Jake Jake no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Jake_Jake_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20170607182134",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Jiki Jiki no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/1/13/Jiki_Jiki_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220525022232",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Juku Juku no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/f/f1/Juku_Juku_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20200412160241",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Kage Kage no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/7b/Kage_Kage_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20201116170246",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Kibi Kibi no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/3/35/Kibi_Kibi_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20190819140148",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Kira Kira no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kira_Kira_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20101021104815",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Kiro Kiro no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/8/89/Kiro_Kiro_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20210204030042",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Kobu Kobu no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/75/Kobu_Kobu_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20190414130522",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Kuku Kuku no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/47/Kuku_Kuku_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20180527032147",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Kuri Kuri no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/73/Kuri_Kuri_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20180913105124",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Maki Maki no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/d1/Maki_Maki_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220118062718",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Mane Mane no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Mane_Mane_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20191002145732",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Mato Mato no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Mato_Mato_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220920042704",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Memo Memo no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/c/c0/Memo_Memo_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20171217105138",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Mero Mero no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/9/98/Mero_Mero_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220910135141",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Mira Mira no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Mira_Mira_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20170709205701",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Mochi Mochi no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Mochi_Mochi_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220525022420",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Nagi Nagi no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/3/37/Nagi_Nagi_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20150802120152",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Netsu Netsu no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Netsu_Netsu_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20210208063018",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Nikyu Nikyu no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/e4/Nikyu_Nikyu_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220816170419",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Noro Noro no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Noro_Noro_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20130414195444",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Nui Nui no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/0/00/Nui_Nui_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20190526000026",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Ope Ope no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Ope_Ope_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20210409181034",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Ori Ori no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Ori_Ori_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20130115015011",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Oshi Oshi no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Oshi_Oshi_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220721051214",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Oto Oto no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Apoo_Using_Musical_Powers.png/revision/latest/smart/width/400/height/300?cb=20130209042848",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Pamu Pamu no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Pamu_Pamu_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20141215214103",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Pero Pero no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/77/Pero_Pero_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20190412202445",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Poke Poke no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/2/26/Poke_Poke_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220426093454",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Sabi Sabi no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/7c/Sabi_Sabi_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20160708014101",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Shari Shari no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/e4/Shari_Shari_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220723150343",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Shibo Shibo no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Shibo_Shibo_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20180531213234",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Shiro Shiro no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Shiro_Shiro_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20160115065100",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Soru Soru no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Soru_Soru_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20170521101146",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Sube Sube no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Sube_Sube_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20200912191823",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Sui Sui no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Sui_Sui_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20141019165710",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Suke Suke no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Suke_Suke_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20200112035251",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Supa Supa no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Supa_Supa_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20160925122350",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Toge Toge no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Toge_Toge_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20130120203503",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Toki Toki no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Toki_Toki_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20210221040316",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Ton Ton no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/40/Ton_Ton_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20151003022742",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Wara Wara no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Wara_Wara_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20180803070246",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Woshu Woshu no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Woshu_Woshu_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220818020619",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Yomi Yomi no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/3/3b/Yomi_Yomi_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20201116170233",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Zushi Zushi no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/ba/Zushi_Zushi_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20160529113354",
+        "type": "Paramecia"
+    },
+    {
+        "name": "Artificial Devil Fruit",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/6/64/Artificial_Devil_Fruit_Infobox.png/revision/latest/smart/width/400/height/300?cb=20141206075745",
+        "type": "Zoan"
+    },
+    {
+        "name": "Hebi Hebi no Mi, Model: Anaconda",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Hebi_Hebi_no_Mi%2C_Model_Anaconda_Infobox.png/revision/latest/smart/width/400/height/300?cb=20210908193532",
+        "type": "Zoan"
+    },
+    {
+        "name": "Hebi Hebi no Mi, Model: King Cobra",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/3/33/Hebi_Hebi_no_Mi%2C_Model_King_Cobra_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220408224556",
+        "type": "Zoan"
+    },
+    {
+        "name": "Hito Hito no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/3/38/Hito_Hito_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20191228120250",
+        "type": "Zoan"
+    },
+    {
+        "name": "Inu Inu no Mi, Model: Dachshund",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/d0/Inu_Inu_no_Mi%2C_Model_Dachshund_Infobox.png/revision/latest/smart/width/400/height/300?cb=20200625092631",
+        "type": "Zoan"
+    },
+    {
+        "name": "Inu Inu no Mi, Model: Jackal",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Inu_Inu_no_Mi%2C_Model_Jackal_Infobox.png/revision/latest/smart/width/400/height/300?cb=20130919152838",
+        "type": "Zoan"
+    },
+    {
+        "name": "Inu Inu no Mi, Model: Tanuki",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/3/33/Bunbuku_Manga_Infobox.png/revision/latest/smart/width/400/height/300?cb=20210405204206",
+        "type": "Zoan"
+    },
+    {
+        "name": "Inu Inu no Mi, Model: Wolf",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Full-Beast_Form_of_Jabra%27s_fruit.png/revision/latest/smart/width/400/height/300?cb=20211029235543",
+        "type": "Zoan"
+    },
+    {
+        "name": "Kame Kame no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/74/Kame_Kame_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20160120235204",
+        "type": "Zoan"
+    },
+    {
+        "name": "Mogu Mogu no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/9/95/Mogu_Mogu_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20160814224126",
+        "type": "Zoan"
+    },
+    {
+        "name": "Mushi Mushi no Mi, Model: Kabutomushi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/c/ce/Mushi_Mushi_no_Mi%2C_Model_Kabutomushi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20141006011335",
+        "type": "Zoan"
+    },
+    {
+        "name": "Mushi Mushi no Mi, Model: Suzumebachi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Mushi_Mushi_no_Mi%2C_Model_Suzumebachi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20140609062408",
+        "type": "Zoan"
+    },
+    {
+        "name": "Neko Neko no Mi, Model: Leopard",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Neko_Neko_no_Mi%2C_Model_Leopard_Human-Beast_Form.png/revision/latest/smart/width/400/height/300?cb=20220410054931",
+        "type": "Zoan"
+    },
+    {
+        "name": "Sara Sara no Mi, Model: Axolotl",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/db/Sara_Sara_no_Mi%2C_Model_Axolotl_Infobox.png/revision/latest/smart/width/400/height/300?cb=20130630175803",
+        "type": "Zoan"
+    },
+    {
+        "name": "SMILE",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/e5/SMILE_Infobox.png/revision/latest/smart/width/400/height/300?cb=20141206075836",
+        "type": "Zoan"
+    },
+    {
+        "name": "Tama Tama no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Tama_Tama_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20171203040745",
+        "type": "Zoan"
+    },
+    {
+        "name": "Tori Tori no Mi, Model: Albatross",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/8/87/Morgans_Anime_Infobox.png/revision/latest/smart/width/400/height/300?cb=20180401081646",
+        "type": "Zoan"
+    },
+    {
+        "name": "Tori Tori no Mi, Model: Eagle",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/df/Tori_Tori_no_Mi%2C_Model_Eagle_Infobox.png/revision/latest/smart/width/400/height/300?cb=20130628213413",
+        "type": "Zoan"
+    },
+    {
+        "name": "Tori Tori no Mi, Model: Falcon",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Tori_Tori_no_Mi%2C_Model_Falcon_Beast_Form.png/revision/latest/smart/width/400/height/300?cb=20150514123230",
+        "type": "Zoan"
+    },
+    {
+        "name": "Uma Uma no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/3/39/Uma_Uma_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220713111132",
+        "type": "Zoan"
+    },
+    {
+        "name": "Ushi Ushi no Mi, Model: Bison",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Ushi_Ushi_no_Mi%2C_Model_Bison_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220408131623",
+        "type": "Zoan"
+    },
+    {
+        "name": "Ushi Ushi no Mi, Model: Giraffe",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Ushi_Ushi_no_Mi%2C_Model_Giraffe_Infobox.png/revision/latest/smart/width/400/height/300?cb=20141206185849",
+        "type": "Zoan"
+    },
+    {
+        "name": "Zou Zou no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Funkfreed_Anime_Infobox.png/revision/latest/smart/width/400/height/300?cb=20160816232853",
+        "type": "Zoan"
+    },
+    {
+        "name": "Ame Ame no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Ame_Ame_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20221009225401",
+        "type": "Logia"
+    },
+    {
+        "name": "Gasu Gasu no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Gasu_Gasu_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20161120000041",
+        "type": "Logia"
+    },
+    {
+        "name": "Goro Goro no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Goro_Goro_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20181214005449",
+        "type": "Logia"
+    },
+    {
+        "name": "Hie Hie no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/5/56/Hie_Hie_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20210322034024",
+        "type": "Logia"
+    },
+    {
+        "name": "Magu Magu no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/0/07/Magu_Magu_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220507164728",
+        "type": "Logia"
+    },
+    {
+        "name": "Mera Mera no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Mera_Mera_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20151123200729",
+        "type": "Logia"
+    },
+    {
+        "name": "Moku Moku no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Moku_Moku_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20200912191830",
+        "type": "Logia"
+    },
+    {
+        "name": "Mori Mori no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/2/23/Mori_Mori_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220801065220",
+        "type": "Logia"
+    },
+    {
+        "name": "Numa Numa no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/d3/Numa_Numa_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20130526034225",
+        "type": "Logia"
+    },
+    {
+        "name": "Pasa Pasa no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Pasa_Pasa_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220522115915",
+        "type": "Logia"
+    },
+    {
+        "name": "Pika Pika no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Pika_Pika_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20110903091229",
+        "type": "Logia"
+    },
+    {
+        "name": "Suna Suna no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/7d/Suna_Suna_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20220408131752",
+        "type": "Logia"
+    },
+    {
+        "name": "Toro Toro no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Toro_Toro_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20130623120640",
+        "type": "Logia"
+    },
+    {
+        "name": "Yami Yami no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Yami_Yami_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20160123174331",
+        "type": "Logia"
+    },
+    {
+        "name": "Yuki Yuki no Mi",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Yuki_Yuki_no_Mi_Infobox.png/revision/latest/smart/width/400/height/300?cb=20170805155559",
+        "type": "Logia"
+    }
+]
