@@ -1,4 +1,4 @@
-import utils
+import utils.utils as utils
 import re
 
 URL = 'https://onepiece.fandom.com/wiki'
@@ -30,7 +30,7 @@ def get_akuma_no_mi(type):
         if akumaNoMi is not None:
             akumaNoMiList.append(akumaNoMi)
 
-    # akumaNoMiList = evaluate_akuma_no_mi_descriptions(akumaNoMiList)
+    akumaNoMiList = evaluate_akuma_no_mi_descriptions(akumaNoMiList)
 
     return akumaNoMiList
 
@@ -58,6 +58,7 @@ def evaluate_akuma_no_mi_descriptions(akumaNoMiList):
     akumaNoMiHtmlList = utils.get_multiple_html(akumaNoMiUrlList)
 
     for akumaNoMi, akumaNoMiHtml in zip(akumaNoMiList, akumaNoMiHtmlList):
+        print(akumaNoMi['name'])
         akumaNoMi['description'] = get_akuma_no_mi_description(akumaNoMiHtml)
         akumaNoMiList.append(akumaNoMi)
 
