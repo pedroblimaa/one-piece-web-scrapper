@@ -19,11 +19,19 @@ async def get_async_htmls(urls):
     return html_list
 
 async def read_url(session, url):
-    async with session.get(url) as resp:
-        html = await resp.text()
-        soup = BeautifulSoup(html, 'html.parser')
+    
+    try:
+        async with session.get(url) as resp:
+            html = await resp.text()
+            soup = BeautifulSoup(html, 'html.parser')
+            
+            print("Finished url: " + url)
 
-        return soup
+            return soup
+    except Exception as e:
+        print("Error in url: " + url)
+        print(e)
+        return None
 
 
 def get_html(url):
